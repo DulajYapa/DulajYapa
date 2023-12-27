@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dulaj Yapa</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dulaj+Yapa!;" />
+</h1>
 <h3 align="center">🎓Aspiring software engineer and current undergraduate student pursuing a degree in Software Engineering at The Open University of Sri Lanka | 🎯Enthusiastic about creating efficient and user-friendly solutions. 💻 Constantly learning and exploring new technologies.</h3>
 
 <img align="right" alt="Coding" width=400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
