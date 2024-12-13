@@ -5,15 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajyapa&label=Profile%20views&color=0e75b6&style=flat" alt="dulajyapa" /> </p>
 
-
-- 🔭 I’m currently working on [Food Donation Gallery](https://github.com/FoodDonationGallery/FoodDonate.git)
-
-- 🌱 I’m currently learning **JavaScript and PHP**
-
 - 📫 How to reach me **dulajyapa55@gmail.com**
-
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1fVl1_fCjse39I_Ozqg8iFpyVO7_5Re1r/view?usp=sharing)
-<hr/>
 
 <h3 align="left">📌 Connect with me 📌</h3>
 <p align="left">
